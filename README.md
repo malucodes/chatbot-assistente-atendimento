@@ -1,6 +1,6 @@
 # Assistente de Atendimento Automatizado (n8n + SQL + REST)
 
-Este projeto consiste em um chatbot escalável desenvolvido no **n8n**, focado na experiência do usuário (UX) e integridade de dados. Ele realiza consultas em tempo real via API REST e validações em banco de dados **PostgreSQL**.
+Este projeto consiste em um chatbot escalável desenvolvido no **n8n**, focado na experiência do usuário (UX) e integridade de dados. Ele realiza consultas em tempo real via API REST e validações em banco de dados **MySQL**.
 
 ---
 
