@@ -1,10 +1,10 @@
-# Assistente de Atendimento Automatizado (n8n + SQL + REST)
+# ✦ Assistente de Atendimento Automatizado
 
 Este projeto consiste em um chatbot escalável desenvolvido no **n8n**, focado na experiência do usuário (UX) e integridade de dados. Ele realiza consultas em tempo real via API REST e validações em banco de dados **MySQL**.
 
 ---
 
-## 🏗️ Arquitetura do Sistema
+## ✧ Arquitetura do Sistema
 Fluxo de funcionamento do sistema:
 
 1. O bot recebe o input do usuário  
@@ -14,7 +14,7 @@ Fluxo de funcionamento do sistema:
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## ⊹ Tecnologias Utilizadas
 
 - **n8n**: Orquestração de fluxos low-code  
 - **PostgreSQL**: Armazenamento e logs de auditoria  
@@ -23,7 +23,7 @@ Fluxo de funcionamento do sistema:
 
 ---
 
-## 🛠️ Funcionalidades Técnicas
+## ✶ Funcionalidades Técnicas
 
 - **Monitoramento via SQL**  
   Implementação de queries para validar a integridade dos fluxos e identificar gargalos  
