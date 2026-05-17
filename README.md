@@ -17,7 +17,7 @@ Fluxo de funcionamento do sistema:
 ## ⊹ Tecnologias Utilizadas
 
 - **n8n**: Orquestração de fluxos low-code  
-- **PostgreSQL**: Armazenamento e logs de auditoria  
+- **MySQL**: Armazenamento e logs de auditoria  
 - **REST API**: Integração com sistemas de terceiros (ex: CRM e pagamentos)  
 - **JavaScript**: Manipulação de dados complexos nos nós de função  
 
